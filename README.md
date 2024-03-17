@@ -6,7 +6,7 @@ Android-developer
 
 I've been working with code for more than 5 years, and for the last 1.5 years I have been immersed in Android development. I completed the Yandex Practicum courses and now I am working on personal projects and actively searching for a job.
 
-* ✉️  You can contact me at [hatepk@gmail.com](mailto:dmitrii.padchin@gmail.com)
+* ✉️  You can contact me at [dmitrii.padchin@gmail.com](mailto:dmitrii.padchin@gmail.com)
 * 🚀  I'm currently working on [Boss Tracker App](http://github.com/HatePK/Boss-tracker-app)
 * 🤝  I'm open to collaborating on volunteer projects
 
