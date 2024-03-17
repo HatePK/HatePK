@@ -22,10 +22,6 @@ I've been working with code for more than 5 years, and for the last 1.5 years I 
 
 <p align="left"> <a href="https://www.github.com/HatePK" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/HatePK"><img src="https://github-readme-stats.vercel.app/api?username=HatePK&show_icons=true&hide=stars,&title_color=84cc16&text_color=84cc16&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="HatePK's GitHub stats" /></a>
-
-<a href="http://www.github.com/HatePK"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HatePK&bg_color=1c1917&color=84cc16&line=a855f7&point=84cc16&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
