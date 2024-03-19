@@ -24,7 +24,7 @@ I've been working with code for more than 5 years, and for the last 1.5 years I 
 ### Socials
 
 <p align="left">
-  <a href="https://t.me/hatepk" target="_blank" rel="noreferrer"><img alt="" src="[https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"></a>
+  <a href="https://t.me/hatepk" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 ### My GitHub Stats
