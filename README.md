@@ -23,7 +23,9 @@ I've been working with code for more than 5 years, and for the last 1.5 years I 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/HatePK" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://t.me/hatepk" target="_blank" rel="noreferrer"><img alt="" src="[https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"></a>
+</p>
 
 ### My GitHub Stats
 
