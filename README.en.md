@@ -4,7 +4,7 @@ Hi 👋 My name is Dmitrii Padchin
 Android-developer
 -----------------
 
-Language: [RU](https://github.com/HatePK/HatePK/blob/main/README.ru.md) / EN
+Language: [RU](https://github.com/HatePK/HatePK/blob/main/README.md) / EN
 
 I've been working with code for more than 5 years, and for the last 1.5 years I have been immersed in Android development. I completed the Yandex Practicum courses and now I am working on personal projects and actively searching for a job.
 
