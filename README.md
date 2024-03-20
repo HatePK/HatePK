@@ -1,19 +1,17 @@
-Hi 👋 My name is Dmitrii Padchin
+Привет! 👋 Меня зовут Дмитрий Падчин
 ================================
-
-Android-developer
+Android-разработчик
 -----------------
 
-Language: [RU](https://github.com/HatePK/HatePK/blob/main/README.ru.md) / EN
+Language: RU / [EN](https://github.com/HatePK/HatePK/blob/main/README.en.md)
 
-I've been working with code for more than 5 years, and for the last 1.5 years I have been immersed in Android development. I completed the Yandex Practicum courses and now I am working on personal projects and actively searching for a job.
+Я работаю с кодом уже более 5 лет, из которых последние полтора года я погружен в Android-разработку. Я закончил курсы Практикум от Яндекса и сейчас активно ищу работу, параллельно занимаясь пет-проектами. 
 
-* ✉️  You can contact me at [dmitrii.padchin@gmail.com](mailto:dmitrii.padchin@gmail.com)
-* 🚀  I'm currently working on [Boss Tracker App](http://github.com/HatePK/Boss-tracker-app)
-* 🤝  I'm open to collaborating on volunteer projects
+* ✉️  Пишите мне на почту [dmitrii.padchin@gmail.com](mailto:dmitrii.padchin@gmail.com)
+* 🚀  Мой текущий проект [Boss Tracker App](http://github.com/HatePK/Boss-tracker-app)
+* 🤝  Я готов поработать за бесплатно над полезными волонтерскими проектами. Пишите!
 
-### Skills
-
+### Стэк
 
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a></p>
@@ -23,12 +21,12 @@ I've been working with code for more than 5 years, and for the last 1.5 years I 
 </p>
 
 
-### Socials
+### Мессенджеры
 
 <p align="left">
   <a href="https://t.me/hatepk" target="_blank" rel="noreferrer"><img alt="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
-### My GitHub Stats
+### Статистика GitHub
 
 <a href="http://www.github.com/HatePK"><img src="https://github-readme-stats.vercel.app/api?username=HatePK&show_icons=true&hide=stars,&title_color=84cc16&text_color=84cc16&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="HatePK's GitHub stats" /></a>
